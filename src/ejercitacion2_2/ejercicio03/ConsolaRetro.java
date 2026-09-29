@@ -27,6 +27,7 @@ public class ConsolaRetro {
         } else {
             System.out.println(modelo + " " + numeroSerie + " está APAGADA.");
         }
+
     }
 
     public static void main(String[] args) {
