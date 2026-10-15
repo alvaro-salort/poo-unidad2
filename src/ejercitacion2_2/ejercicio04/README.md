@@ -1,9 +1,9 @@
 # Ejercicio 04 — CajaRegistradora
 
-**Estado:** pendiente. La clase está vacía, falta resolver la consigna.
+**Objetivo:** métodos con `return` que calculan sobre los atributos del objeto, evitando dividir por cero.
+**Salida esperada:** monto promedio por venta tras registrar tres ventas.
 
-**Objetivo:** métodos con `return` que calculan sobre los atributos del objeto (`montoRecaudado`, `totalVentasRealizadas`), usando `if` para no dividir por cero.
-**Pendiente:** constructor en 0, `registrarVenta(double)`, `obtenerPromedioVenta()` y `main` con tres ventas.
+**Conceptos:** acumuladores de estado · `return` · guarda con `if` antes de dividir · atributos `private`
 
 ```bash
 javac -d bin src/ejercitacion2_2/ejercicio04/CajaRegistradora.java
